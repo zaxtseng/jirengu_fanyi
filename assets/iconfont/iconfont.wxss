@@ -1,0 +1,41 @@
+  @font-face {
+  font-family: "iconfont";
+  src: url('https://at.alicdn.com/t/font_701611_hae88nyevm4.ttf') format('truetype') /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+}
+
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 18px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-leidian:before {
+  content: "\e61e";
+}
+
+.icon-xiaoyu:before {
+  content: "\e622";
+}
+
+.icon-tianqi:before {
+  content: "\e631";
+}
+
+.icon-qing:before {
+  content: "\e6ec";
+}
+
+.icon-down:before {
+  content: "\e633";
+}
+
+.icon-duihao:before {
+  content: "\e6bf";
+}
+
+.icon-close:before {
+  content: "\e615";
+}
